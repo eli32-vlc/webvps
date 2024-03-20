@@ -4,7 +4,7 @@
   "description": "A simple vps for vercel",
   "main": "index.js",
   "scripts": {
-    "start": "web-terminal --port 8088"
+    "start": "web-terminal --port 80"
   },
   "keywords": [
     "web proxy",
